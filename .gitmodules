@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "muRty"]
 	path = muRty
 	url = https://github.com/arg0naut91/murty
-	shallow = true
-	registered = true
 [submodule "neatRanges"]
 	path = neatRanges
 	url = https://github.com/arg0naut91/neatranges
-	shallow = true
-	registered = true
